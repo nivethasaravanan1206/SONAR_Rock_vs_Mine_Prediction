@@ -53,9 +53,8 @@ P(Y=1|X) = \frac{1}{1 + e^{-(β_0 + β_1X_1 + β_2X_2 + ... + β_nX_n)}}
 ---
 
 ## 📊 Results
-- **Training Accuracy:** ~83%  
-- **Test Accuracy:** ~76%  
-(Values may vary slightly per run)
+- **Accuracy on training data**: 0.834
+- **Accuracy on test data**: 0.762
 
 ---
 
